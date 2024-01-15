@@ -3630,6 +3630,27 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "New session title",
+      "description": "Describe our conference topic. Interesting information.",
+      "level": "Beginner",
+      "day": "Monday, October 22nd.",
+      "id": "4ca1f890-2f26-4362-bfaf-eb5af0746851"
+    },
+    {
+      "title": "New session title",
+      "description": "Describe our conference topic. Interesting information.",
+      "level": "Beginner",
+      "day": "Monday, October 22nd.",
+      "id": "74ffc337-4355-49b9-bbbb-2cb67f7f5bb0"
+    },
+    {
+      "title": "New session title",
+      "description": "Describe our conference topic. Interesting information.",
+      "level": "Beginner",
+      "day": "Monday, October 22nd.",
+      "id": "3bbe3668-77fd-415e-b775-c31dc2095856"
     }
   ]
 }
